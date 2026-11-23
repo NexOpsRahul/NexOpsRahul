@@ -1,36 +1,65 @@
+
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">DevOps Engineer | Azure Cloud | Infrastructure Automation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nexopsrahul&label=Profile%20views&color=0e75b6&style=flat" alt="nexopsrahul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nexopsrahul" alt="nexopsrahul" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **🤖 Currently exploring AI/ML, LLMs, MLOps, AI automation, and cloud-native technologies.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/NexOpsRahul](https://github.com/NexOpsRahul)
-
-- 💬 Ask me about **Azure, Terraform, CI/CD, Azure DevOps, Infrastructure as Code, Git, Linux, Python, Cloud Networking & Automation, Kubernetes.**
-
-- 📫 How to reach me **rsy12011999@gmail.com**
-
-- 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
-
-- ⚡ Fun fact **🛠️ I break things in my lab so they don't break in production! 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nexopsrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nexopsrahul" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul._singh._001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul._singh._001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/daywithfuns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daywithfuns" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NexOpsRahul&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexopsrahul&show_icons=true&locale=en&layout=compact" alt="nexopsrahul" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexopsrahul&show_icons=true&locale=en" alt="nexopsrahul" /></p>
+- ☁️ DevOps Engineer passionate about Cloud Infrastructure and Automation.
+- 🌱 Currently exploring **AI/ML, LLMs, MLOps, AI Automation, and Cloud-Native Technologies**.
+- 🔧 Working with **Azure, Terraform, CI/CD, Infrastructure as Code**.
+- 💬 Ask me about **Azure, Terraform, CI/CD, Azure DevOps, Linux, Python, Cloud Networking & Automation**.
+- 👨‍💻 All my projects: [GitHub Repositories](https://github.com/NexOpsRahul)
+- 📫 Reach me: **rsy12011999@gmail.com**
+- ⚡ Fun fact: **I break things in my lab so they don't break in production! 😄**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexopsrahul&" alt="nexopsrahul" /></p>
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nexopsrahul">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,linux,docker,kubernetes,jenkins,ansible,git,github,githubactions,python,bash,grafana,prometheus,mysql,postgres" />
+</p>
+
+---
+
+### 📚 Currently Exploring
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Machine%20Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Model%20Operations-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NexOpsRahul&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexOpsRahul&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexOpsRahul&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ⚡ DevOps | Automate Everything 🚀
